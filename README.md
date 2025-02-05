@@ -28,7 +28,9 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     </p>
-
+  </p>
+  
+<p align: "center">
     <h3>📱 Mobile App Development</h3>
   <p align: "center">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react" />
@@ -37,7 +39,9 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
     <img src="https://img.shields.io/badge/Expo_Router-000000?style=flat&logo=expo&logoColor=white" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" />
     </p>
+  </p>
 
+<p align: "center">
     <h3>🌐 Web Development</h3>
   <p align: "center">
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
@@ -45,36 +49,47 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+    </p>
     </p>
 
-
+<p align: "center">
     <h3>🛠️ Back-End Development</h3>
   <p align: "center">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
     </p>
+    </p>
 
+<p align: "center">
     <h3>☁️ DevOps & Cloud</h3>
   <p align: "center">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" />
     <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
     </p>
+    </p>
 
+<p align: "center">
     <h3>🗄️ Databases</h3>
   <p align: "center">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     </p>
+    </p>
 
+<p align: "center">
     <h3>🤖 Data Science & AI</h3>
   <p align: "center">
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
     </p>
+    </p>
 
+<p align: "center">
     <h3>🖥️ WordPress Development</h3>
   <p align: "center">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
@@ -120,10 +135,11 @@ FAST (NUCES), **September 2021 — June 2025**
 ---
 
 ## 📫 Contact  
-📧 Email: [sufyanlehri10@gmail.com](mailto:sufyanlehri10@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/sufyan-abdul-rasheed-551a28210/])  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/sufyan20033)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/sufyanabdulr)
+
+- **Email:** sufyanlehri10@gmail.com
+- **LinkedIn:** [Sufyan Abdul Rasheed](https://www.linkedin.com/in/sufyan-abdul-rasheed-551a28210/)
+- **GitHub:** [sufyan20033](https://github.com/sufyan20033)
+- **Behance** [Sufyan Abdul Rasheed](https://www.behance.net/sufyanabdulr)
 
 **Feel free to reach out if you'd like to collaborate on a project or just want to connect!** 🚀  
 
