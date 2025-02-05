@@ -9,8 +9,7 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan20033&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=90"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sufyan20033&theme=monokai" alt="Repositories per Language"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sufyan20033&theme=monokai" alt="Most Committed Languages"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufyan20033&theme=monokai&hide_border=false" alt="GitHub Streak"/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sufyan20033&theme=monokai&margin-w=5"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?
 </p>
 
 ---
