@@ -3,65 +3,70 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
 
 ---
 
-## 📊 GitHub Stats  
-![Muhammad Sufyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufyan20033&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan20033&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufyan20033&theme=radical)  
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyan20033&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="Taha Hassan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan20033&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=90"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sufyan20033&theme=monokai" alt="Repositories per Language"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sufyan20033&theme=monokai" alt="Most Committed Languages"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufyan20033&theme=monokai&hide_border=false" alt="GitHub Streak"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sufyan20033&theme=monokai&margin-w=5"/>
+</p>
 
 ---
 
-## 💻 Tech Stack  
-My tech stack enables me to take projects from **concept to completion** with ease. I specialize in **Mobile App Development, Web App Development, Artificial Imtelligence and Machine Learning, and WordPress**. I build **scalable applications**, integrate **AI-driven features**, and develop **custom WordPress solutions** to enhance digital experiences across **mobile and web platforms**..
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">My tech stack enables me to take projects from **concept to completion** with ease. I specialize in **Mobile App Development, Web App Development, Artificial Imtelligence and Machine Learning, and WordPress**. I build **scalable applications**, integrate **AI-driven features**, and develop **custom WordPress solutions** to enhance digital experiences across **mobile and web platforms**</p>
 
-### 🚀 Programming Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+<div style="text-align: center;">
+    <h3>🚀 Programming Languages</h3>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
-### 📱 Mobile App Development  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 
-[![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat&logo=expo&logoColor=white)]
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android)  
+    <h3>📱 Mobile App Development</h3>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Expo_Router-000000?style=flat&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" />
 
-### 🌐 Web Development   
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+    <h3>🌐 Web Development</h3>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
+    <h3>🛠️ Back-End Development</h3>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
 
-### 🛠️ Back-End Development  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
- 
+    <h3>☁️ DevOps & Cloud</h3>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" />
+    <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
 
-### ☁️ DevOps & Cloud  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+    <h3>🗄️ Databases</h3>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+    <h3>🤖 Data Science & AI</h3>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 
-### 🤖 Data Science & AI  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Regression](https://img.shields.io/badge/Regression-4CAF50?style=flat)
+    <h3>🖥️ WordPress Development</h3>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce" />
+    <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
+</div>
 
-### 🖥️ WordPress Development  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce)
-[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)](https://elementor.com)
 
 ## 🚀 Projects  
 ### ** Edukon Learning Management System**  
