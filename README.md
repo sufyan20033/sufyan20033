@@ -17,8 +17,9 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">My tech stack enables me to take projects from concept to completion with ease. I specialize in Mobile App Development, Web App Development, Artificial Intelligence and Machine Learning, and WordPress. I build scalable applications, integrate AI-driven features, and develop custom WordPress solutions to enhance digital experiences across mobile and web platforms</p>
 
-<p style="text-align: center">
+<p align: "center">
     <h3>🚀 Programming Languages</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -26,44 +27,60 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    </p>
 
     <h3>📱 Mobile App Development</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/Expo_Router-000000?style=flat&logo=expo&logoColor=white" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" />
+    </p>
 
     <h3>🌐 Web Development</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </p>
+
 
     <h3>🛠️ Back-End Development</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
+    </p>
 
     <h3>☁️ DevOps & Cloud</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" />
     <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+    </p>
 
     <h3>🗄️ Databases</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    </p>
 
     <h3>🤖 Data Science & AI</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+    </p>
 
     <h3>🖥️ WordPress Development</h3>
+  <p align: "center">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
     <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce" />
     <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
+    </p>
 </p>
 
 
