@@ -9,13 +9,13 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan20033&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=90"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sufyan20033&theme=monokai" alt="Repositories per Language"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sufyan20033&theme=monokai" alt="Most Committed Languages"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?"/>
 </p>
 <br>
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
-<p align="center">My tech stack enables me to take projects from **concept to completion** with ease. I specialize in **Mobile App Development, Web App Development, Artificial Imtelligence and Machine Learning, and WordPress**. I build **scalable applications**, integrate **AI-driven features**, and develop **custom WordPress solutions** to enhance digital experiences across **mobile and web platforms**</p>
+<p align="center">My tech stack enables me to take projects from **concept to completion** with ease. I specialize in **Mobile App Development, Web App Development, Artificial Intelligence and Machine Learning, and WordPress**. I build **scalable applications**, integrate **AI-driven features**, and develop **custom WordPress solutions** to enhance digital experiences across **mobile and web platforms**</p>
 
 <div style="text-align: center;">
     <h3>🚀 Programming Languages</h3>
@@ -65,6 +65,7 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
     <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce" />
     <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
 </div>
+
 
 
 ## 🚀 Projects  
