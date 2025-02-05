@@ -11,7 +11,7 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sufyan20033&theme=monokai" alt="Most Committed Languages"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?
 </p>
-
+<br>
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
