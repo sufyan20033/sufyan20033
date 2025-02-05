@@ -15,9 +15,9 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
-<p align="center">My tech stack enables me to take projects from **concept to completion** with ease. I specialize in **Mobile App Development, Web App Development, Artificial Intelligence and Machine Learning, and WordPress**. I build **scalable applications**, integrate **AI-driven features**, and develop **custom WordPress solutions** to enhance digital experiences across **mobile and web platforms**</p>
+<p align="center">My tech stack enables me to take projects from concept to completion with ease. I specialize in Mobile App Development, Web App Development, Artificial Intelligence and Machine Learning, and WordPress. I build scalable applications, integrate AI-driven features, and develop custom WordPress solutions to enhance digital experiences across mobile and web platforms</p>
 
-<div style="text-align: center;">
+<p style="text-align: center;">
     <h3>🚀 Programming Languages</h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -64,7 +64,7 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
     <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce" />
     <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
-</div>
+</p>
 
 
 
