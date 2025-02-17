@@ -115,18 +115,18 @@ Developed an e-commerce recommendation system using TF-IDF vectorizers, content-
 personalized product suggestions and enhance user
 engagement.  
 **Tech:** HTML, CSS, Python, Flask, numpy, scikit-learn
-[🔗 GitHub Repository]([#](https://github.com/sufyan20033/Ecommerce-Recommendation-Project.git))
+[🔗 GitHub Repository](https://github.com/sufyan20033/Ecommerce-Recommendation-Project.git)
 
 ### **Real-Estate Mobile Application**  
 Developed a **Real-estate mobile application** using React Native, featuring property listings, advanced search functionality, and intuitive user navigation..  
 **Tech:** React-Native, TypeScript, Expo-Router
-[🔗 GitHub Repository]([#](https://github.com/sufyan20033/React-Native-Estate.git))
+[🔗 GitHub Repository](https://github.com/sufyan20033/React-Native-Estate.git)
 
 ### **Hotel Booking Website**  
 Developed a **Hotel Booking  Application**  featuring real-time availability tracking, secure user authentication, and efficient
 booking management.  
 **Tech:** Node.js, Express, React.js,MongoDB
-[🔗 GitHub Repository]([#](https://github.com/sufyan20033/MERN-Booking-App.git))
+[🔗 GitHub Repository](https://github.com/sufyan20033/MERN-Booking-App.git)
 
 ---
 
