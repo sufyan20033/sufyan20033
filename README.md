@@ -108,7 +108,7 @@ Developed **Learning Management System** in Database Project. Designed an intuit
 for seamless educational content management, user accounts,
 and interactions within learning environments.  
 **Tech:** HTML, CSS,JavaScript, Node.js, MySQL
-[🔗 GitHub Repository]([(https://github.com/sufyan20033/LMS-Project.git)])
+[🔗 GitHub Repository](https://github.com/sufyan20033/LMS-Project.git)
 
 ### **Ecommerce Product Recommendations**  
 Developed an e-commerce recommendation system using TF-IDF vectorizers, content-based filtering, and Flask to deliver
