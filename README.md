@@ -131,7 +131,6 @@ booking management.
 
 ### **Flutter To-Do-List App**  
 Developed a **To-Do-List App** .The app allows users to create, update, delete, and mark tasks as completed. The app is designed to be responsive and works seamlessly on both Android and iOS devices.
-
 **Tech:** Flutter, Dart
 [🔗 GitHub Repository](https://github.com/sufyan20033/To-Do-list-Flutter-App.git)
 
