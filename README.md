@@ -102,8 +102,8 @@ I'm a passionate software developer specializing in **Artificial Intelligence, M
 
 
 
- 🚀 Projects  
-### ** Edukon Learning Management System**  
+ **🚀 Projects**  
+###  Edukon Learning Management System
 Developed **Learning Management System** in Database Project. Designed an intuitive interface
 for seamless educational content management, user accounts,
 and interactions within learning environments.  
